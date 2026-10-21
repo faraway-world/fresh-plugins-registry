@@ -77,6 +77,15 @@
       ],
       "repository": "https://github.com/sinelaw/fresh-plugins#polkit",
       "latest_version": "0.1.0"
+    },
+    "fresh-discord-rpc": {
+     "description": "Zero-configuration Discord Rich Presence integration for Fresh editor",
+     "repository": "https://github.com/faraway-world/fresh-discord-rpc",
+     "author": "faraway-world",
+     "license": "MIT",
+     "keywords": ["discord", "rpc", "rich-presence", "presence", "status"],
+     "latest_version": "1.0.0",
+     "fresh_min_version": "0.1.0"
     }
   }
 }
